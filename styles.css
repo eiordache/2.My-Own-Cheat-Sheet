@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: rebeccapurple;
+}
+
+table {
+    border: 2px solid rebeccapurple;
+    margin: 0 auto;
+    width: 700px;
+}
+
+thead {
+    background-color: salmon;
+}
+
+td {
+    border-top: 1px solid rebeccapurple;
+    border-right: 1px solid orchid;
+}
